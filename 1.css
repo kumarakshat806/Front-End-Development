@@ -1,0 +1,39 @@
+#authorID{
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+}
+main{
+    display: inline-block;
+    width: 70%;
+}
+input{
+    display: block;
+    background-color: #e4e4e4;
+    margin-bottom: 15px;
+    padding: 4px;
+    color: black;
+}
+form{
+    margin-top: 40px;
+    border-top:4px solid black ;
+    padding: 8px;
+}
+aside{
+    display: inline-block;
+    width: 15%;
+    vertical-align: top;
+    margin-top:10px ;
+    margin-left: -30px;
+}
+button{
+    font-size: 1.2rem;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: 3px solid black;
+}
+#h41{
+    font-size: 1.2rem;
+    margin: auto;
+}
